@@ -13,9 +13,10 @@ Config = {}
 -- set this to false if you don't want to use ND_Framework 
 Config.UseND = true
 
--- sets the price range for healing
+-- sets the minimum and maximum price for healing
 -- only works if UseND is set to true
-Config.Price = math.random(100, 500)
+Config.PriceMin = 50
+Config.PriceMax = 550
 
 -- healing pads locations
 -- refer to this for the blips ids and colors https://docs.fivem.net/docs/game-references/blips/

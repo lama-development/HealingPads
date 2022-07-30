@@ -37,6 +37,7 @@ Citizen.CreateThread(function()
                         if (GetEntityHealth(GetPlayerPed(-1)) < 200) then                          
                             SetEntityHealth(GetPlayerPed(-1), 200)
                             if Config.UseND == true then
+                                price = math.random(Config.PriceMin, Config.PriceMax)
                                 TriggerServerEvent('pay', price)
                                 DisplayNotification("~g~You have been succesfully treated.~s~ Price: $" .. price)
                             else
