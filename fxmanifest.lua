@@ -2,7 +2,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 name 'HealingPads'
-description 'Add paid healing pads at hospitals.'
+description 'Heal yourself at hospitals.'
 author 'Lama#9612'
 version '1.0'
 
