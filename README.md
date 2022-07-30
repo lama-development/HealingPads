@@ -17,7 +17,7 @@ You can also add more healing pads wherever you like and customize the markers a
 - Customizable markers and blips
 
 ## :eyes: **Preview** 
-[Youtube](https://youtu.be/p_MImN77A0k)
+[Youtube](https://youtu.be/QV25L0r_Q9E)
 
 
 ## :white_check_mark: **Changelog**
