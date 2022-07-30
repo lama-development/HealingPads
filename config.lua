@@ -10,8 +10,8 @@ Config = {}
 ──────────────────────────────────────────────────────────────────
 ]]--
 
--- set this to false if you don't want to use ND_Framework 
-Config.UseND = true
+-- set this to true if you use ND_Framework by Andyyy7666 (https://github.com/Andyyy7666/ND_Framework)
+Config.UseND = false
 
 -- sets the minimum and maximum price for healing
 -- only works if UseND is set to true
