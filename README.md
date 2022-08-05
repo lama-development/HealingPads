@@ -21,5 +21,8 @@ You can also add more healing pads wherever you like and customize the markers a
 
 
 ## :white_check_mark: **Changelog**
+> **v1.1**
+> - Optimized, cleaned, and updated code (Thanks to Andyyy7666)
+
 > **v1.0**
 > - Initial Release 
