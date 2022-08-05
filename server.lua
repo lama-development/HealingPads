@@ -1,6 +1,6 @@
 -- from https://ndframework.gitbook.io/nd-framework/developers/server
 
-if config.UseND then
+if Config.UseND then
 	NDCore = exports["ND_Core"]:GetCoreObject()
 	RegisterServerEvent('pay')
 	AddEventHandler('pay', function(price)
