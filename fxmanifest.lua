@@ -1,17 +1,11 @@
-fx_version 'bodacious'
-game 'gta5'
-
 name 'HealingPads'
 description 'Heal yourself at hospitals.'
 author 'Lama#9612'
-version '1.0'
+version '1.1.0'
 
-client_script {
-    'client.lua',
-    'config.lua'
-}
+fx_version 'cerulean'
+game 'gta5'
 
-server_script {
-    'server.lua',
-    'versioncheck.lua'
-}
+shared_script 'config.lua'
+client_script 'client.lua'
+server_script 'server.lua'
