@@ -1,7 +1,7 @@
 name 'HealingPads'
 description 'Heal yourself at hospitals.'
 author 'Lama#9612'
-version '1.1'
+version '1.1.0'
 
 fx_version 'cerulean'
 game 'gta5'
