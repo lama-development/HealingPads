@@ -1,5 +1,5 @@
 # **Healing Pads**
-![HealingPads](https://user-images.githubusercontent.com/79053058/181934368-5babcd34-ed7a-4e2f-943e-ce2ed1b06214.png)
+![HealingPads](https://user-images.githubusercontent.com/79053058/183048941-2f6c9dc8-98da-4e7c-8cde-f08ec660edd0.png)
 
 
 ## :bookmark_tabs: **Description** 
