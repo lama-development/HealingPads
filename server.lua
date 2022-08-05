@@ -47,4 +47,5 @@ function versionChecker(expectedResourceName, resourceName, downloadLink, rawGit
     end)
 end
 
-versionChecker("HealingPads", GetCurrentResourceName(), "https://github.com/ItzEndah/HealingPads", "https://raw.githubusercontent.com/ItzEndah/HealingPads/main/fxmanifest.lua")
+-- broken for now, error on line 24
+--versionChecker("HealingPads", GetCurrentResourceName(), "https://github.com/ItzEndah/HealingPads", "https://raw.githubusercontent.com/ItzEndah/HealingPads/main/fxmanifest.lua")
