@@ -18,17 +18,16 @@ You can also add more healing pads wherever you like and customize the markers a
 ## :eyes: **Preview** 
 [YouTube](https://youtu.be/QV25L0r_Q9E)
 
-## 📥 Installation
-- Rename the folder from `HealingPads-main` to `HealingPads`
-- Drag the folder to your server resource folder
-- Add `start HealingPads` or `ensure HealingPads` to your server.cfg 
-
 ## 📈 Resmon
 | Context | CPU |
 | ------------- | ------------- |
 | Idle  | 0.01 ms  |
 | On marker  | 0.04 ms  |
 
+## 📥 Installation
+- Rename the folder from `HealingPads-main` to `HealingPads`
+- Drag the folder to your server resource folder
+- Add `start HealingPads` or `ensure HealingPads` to your server.cfg 
 
 ## :white_check_mark: **Changelog**
 > **v1.2**
