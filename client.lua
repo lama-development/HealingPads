@@ -18,12 +18,14 @@ function DisplayHelpText(text, state)
     DisplayHelpTextFromStringLabel(0, state, 0, -1)
 end
 
--- Create hospital blips
+-- Create healing pads blips
 Citizen.CreateThread(function()
     for _, item in pairs(Config.Blips) do
         item.blip = AddBlipForCoord(item.x, item.y, item.z)
-        SetBlipSprite(item.blip, item.id)
-        SetBlipColour(item.blip, item.color)
+        -- refer to this for the blips ids and colors https://docs.fivem.net/docs/game-references/blips/
+        SetBlipSprite(item.blip, 489)
+        SetBlipColour(item.blip, 35)
+        SetBlipDisplay(item.blip, 4)
         SetBlipAsShortRange(item.blip, true)
         BeginTextCommandSetBlipName("STRING")
         AddTextComponentString("Healing Pad")
