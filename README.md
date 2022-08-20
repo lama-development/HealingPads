@@ -1,7 +1,6 @@
 # **Healing Pads**
 ![HealingPads](https://user-images.githubusercontent.com/79053058/183048941-2f6c9dc8-98da-4e7c-8cde-f08ec660edd0.png)
 
-
 ## :bookmark_tabs: **Description** 
 This simple resource add markers in front of all hospitals on the map, where players can get healed by stepping on them and pressing a button (default is **E**).
 
@@ -17,8 +16,12 @@ You can also add more healing pads wherever you like and customize the markers a
 - Customizable markers and blips
 
 ## :eyes: **Preview** 
-[Youtube](https://youtu.be/QV25L0r_Q9E)
+[YouTube](https://youtu.be/QV25L0r_Q9E)
 
+## 📥 Installation
+1.  Rename the folder from `HealingPads-main` to `HealingPads`
+2. Drag the folder to your server resource folder
+3. Add `start HealingPads` or `ensure HealingPads` to your server.cfg 
 
 ## :white_check_mark: **Changelog**
 > **v1.1**
