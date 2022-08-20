@@ -1,4 +1,4 @@
-# **Healing Pads**
+# **HealingPads - Heal at Hospitals**
 ![HealingPads](https://user-images.githubusercontent.com/79053058/183048941-2f6c9dc8-98da-4e7c-8cde-f08ec660edd0.png)
 
 ## :bookmark_tabs: **Description** 
