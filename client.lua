@@ -1,13 +1,7 @@
 --[[
-─────────────────────────────────────────────────────────────────
-
-	HealingPads (client.lua) - Created by Lama
-	
-	Support - Lama#9612 on Discord
-	
-	DO NOT EDIT BELOW IF YOU DON'T KNOW WHAT YOU ARE DOING	
-
-─────────────────────────────────────────────────────────────────
+HealingPads - Created by Lama	
+For support - Lama#9612 on Discord	
+Do not edit below if you don't know what you are doing
 ]]--
 
 -- Notification above map
@@ -32,7 +26,7 @@ Citizen.CreateThread(function()
         SetBlipColour(item.blip, item.color)
         SetBlipAsShortRange(item.blip, true)
         BeginTextCommandSetBlipName("STRING")
-        AddTextComponentString(item.name)
+        AddTextComponentString("Healing Pad")
         EndTextCommandSetBlipName(item.blip)
     end
 end)
