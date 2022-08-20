@@ -14,7 +14,6 @@ Config.PriceMin = 50
 Config.PriceMax = 200
 
 -- healing pads locations
--- refer to this for the blips ids and colors https://docs.fivem.net/docs/game-references/blips/
 Config.Blips = {{
     -- Central Los Santos Medical Center
     x = 338.85,
