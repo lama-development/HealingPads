@@ -22,7 +22,7 @@ You can also add more healing pads wherever you like and customize the markers a
 | Context | CPU |
 | ------------- | ------------- |
 | Idle  | 0.01 ms  |
-| On marker  | 0.04 ms  |
+| Peak  | 0.04 ms  |
 
 ## 📥 Installation
 - Rename the folder from `HealingPads-main` to `HealingPads`
