@@ -18,13 +18,13 @@ You can also add more healing pads wherever you like and customize the markers a
 ## :eyes: **Preview** 
 [YouTube](https://youtu.be/QV25L0r_Q9E)
 
-## 📈 Resmon
+## :bar_chart: **Resmon**
 | Context | CPU |
 | ------------- | ------------- |
 | Idle  | 0.01 ms  |
 | Peak  | 0.04 ms  |
 
-## 📥 Installation
+## :inbox_tray: **Installation**
 - Rename the folder from `HealingPads-main` to `HealingPads`
 - Drag the folder to your server resource folder
 - Add `start HealingPads` or `ensure HealingPads` to your server.cfg 
@@ -38,3 +38,8 @@ You can also add more healing pads wherever you like and customize the markers a
 
 > **v1.0**
 > - Initial Release 
+
+You can also check out my other releases:
+- [TruckJob](https://forum.cfx.re/t/free-truckjob-work-as-a-truck-driver/4898910)
+- [ShotSpotter](https://forum.cfx.re/t/free-shotspotter-gunshot-detection-system/3599253/1)
+- [CarLock](https://forum.cfx.re/t/free-carlock-animation-sound/3768972/1)
