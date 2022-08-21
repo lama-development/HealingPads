@@ -39,6 +39,9 @@ You can also add more healing pads wherever you like and customize the markers a
 > **v1.0**
 > - Initial Release 
 
+## :heart: **Support me**
+Please consider leaving a like or a simple comment if you enjoyed this release, to show support and allowing me to keep making free high-quality resources.  
+
 You can also check out my other releases:
 - [TruckJob](https://forum.cfx.re/t/free-truckjob-work-as-a-truck-driver/4898910)
 - [ShotSpotter](https://forum.cfx.re/t/free-shotspotter-gunshot-detection-system/3599253/1)
