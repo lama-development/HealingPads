@@ -2,7 +2,7 @@ Config = {}
 
 --[[
 HealingPads - Created by Lama	
-For support - Lama#9612 on Discord
+For support - https://discord.gg/etkAKTw3M7
 ]]--
 
 -- set this to true if you use ND_Framework by Andyyy7666 (https://github.com/Andyyy7666/ND_Framework)
