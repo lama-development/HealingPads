@@ -1,5 +1,5 @@
 # **HealingPads - Heal at Hospitals**
-![HealingPads](https://user-images.githubusercontent.com/79053058/183048941-2f6c9dc8-98da-4e7c-8cde-f08ec660edd0.png)
+![HealingPads](https://user-images.githubusercontent.com/79053058/194764905-9ba65692-de67-4243-b0ea-5b2b2936e239.png)
 
 ## :bookmark_tabs: **Description** 
 This simple resource add markers in front of all hospitals on the map, where players can get healed by stepping on them and pressing a button (default is **E**).
