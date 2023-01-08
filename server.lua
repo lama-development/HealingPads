@@ -10,7 +10,7 @@ end
 
 -- version checker
 Citizen.CreateThread( function()
-	updatePath = "/ItzEndah/HealingPads"
+	updatePath = "/lama-development/HealingPads"
 	resourceName = "HealingPads by Lama"
 	
 	function checkVersion(err, responseText, headers)
